@@ -19,3 +19,6 @@
 - git switch -c <branchname>
 - git switch <branchname>
 - git branch        //view all branches
+- git add .
+- git commit -m"commit"
+- git push --set-upstream origin <branchname>
