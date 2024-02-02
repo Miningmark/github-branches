@@ -13,8 +13,12 @@
 - git status
 - git add .
 - git commit -m"commit"
-- git branch -M main
 - git push 
 
 ## new branch
-- 
+- git switch -c <branchname>
+- git switch <branchname>
+- git branch        //view all branches
+- git add .
+- git commit -m"commit"
+- git push --set-upstream origin <branchname>
